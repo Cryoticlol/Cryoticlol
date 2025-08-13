@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi I'm Cryotic, a computer science student from Germany<br># I love open source so every projekt i do will end up here :) 
+# Hi I'm Cryotic, a computer science student from Germany<br> I love open source so every projekt i do will end up here :) 
 
 
 ## 🌐 Socials:
